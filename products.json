@@ -1,9 +1,31 @@
 {
 	"a": {
-		"name": "HISLOOKS Demon Slayer Poster Decorative Painting Canvas Wall Art Living Room Posters Bedroom Painting 16x24inch(40x60cm)",
+		"name": "HISLOOKS Demon Slayer Poster Decorative Painting Canvas Wall Art Living Room Posters Bedroom Painting 16x24inch (40x60cm)",
+		"series": "Demon Slayer",
 		"price": "RM49.99",
+		"stock": 40,
+		"description": "**1.** Poster prints Anime Wall Art.\n**Size:**\t16x24 inches. (Note: No Frame)\n**Material:**\t100% high quality waterproof canvas, does not fade easily, and is made of environment-friendly canvas paint that is compliant with the standard.\n\n**2.** **Gift:** Will fit in any standard 12x16 frame. They also make a great one of a kind special gifts.\n\n**3.** **Suitable for:** A simple art poster that makes a great addition to bedroom, hotel, dressing room, corridor, cafe, offices, or dormitory rooms by adding color and interest to the place. The perfect statement accent piece for the head of your bed, over a couch, or a hallway.\n\n**4.** **Packaging:** Wrapped with care. Please [contact us](contact.html) if you have any problems with the item and shipping.",
 		"images": [
-			"https://m.media-amazon.com/images/I/81Tq9oJjuML._AC_SL1500_.jpg"
+			"https://m.media-amazon.com/images/I/81Tq9oJjuML._AC_SL1500_.jpg",
+			"https://m.media-amazon.com/images/I/71fBZ8dOdxL._AC_SY879_.jpg",
+			"https://m.media-amazon.com/images/I/716jShTsxgL._AC_SY879_.jpg",
+			"https://m.media-amazon.com/images/I/71HCRHMng+L._AC_SY879_.jpg"
+		],
+		"reviews": [
+			{
+				"username": "John H.",
+				"rating": 4,
+				"title": "",
+				"comment": "",
+				"date": "June 02 2021 18:44"
+			},
+			{
+				"username": "Ali",
+				"rating": 5,
+				"title": "Decent quality poster!",
+				"comment": "Bought this as a birthday present for my friend. I was surprised that it was actually a good quality poster! Needless to say, it was worth the purchase!",
+				"date": "June 10 2021 20:32"
+			}
 		]
 	},
 	"b": {
