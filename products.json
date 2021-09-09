@@ -323,7 +323,7 @@
 		"purchaseLimit": 20,
 		"description": "- Officially licensed\n- Kuroo stands at 2.75\"\n- Material: PVC"
 	},
-	"b": {
+	"14": {
 		"name": "OCQBI Demon Slayer Figure - Magic Cube Studio Shinobu Kocho Resin Made 1/6 Scale Statue, 52 cm (20.5 Inch) High, Senior and Delicate Figure Statue",
 		"categories": ["Demon Slayer", "Figurines"],
 		"images": [
@@ -339,7 +339,7 @@
 		"purchaseLimit": 1,
 		"description": "**[Product Specs]**\nKimetsu no Yaiba (Demon Slayer) Kochou Shinobu 1/6 Scale Resin Made Statue, Approximately 520 mm, painted finished figure\n\n**[Statue Dimensions]**\n52 cm × 35 cm × 45 cm\n\n**[Collection Level GK Figure]**\nThere is a high quality original color box package, complete with protective material, and a unique numbered nameplate. Production is expected to be completed in January 2021 and certain sales times may be delayed or advanced. Delivered to international logistics within one week after the end of production.\n\n**[Please check directly before signing for the express]**\nThe value of this product is relatively high. For product safety, we have implemented multiple layers of protection on the packaging and put in full insurance. If the inspection finds any damage, we will ask the logistics company to compensate and assist in repairing or sending the damaged parts.\n\n**[Yukiya's evaluation]**\nIf one of the most beautiful and well-known Demon Slayer GK is selected in the world, this product must be among them. Up to now, the collection price of the Chinese version has exceeded three times that at the time of sale, and there is no market. Exquisite workmanship, perfect design, everything is the best. If you are a fan of Demon Slayer, believe me, it is worth buying."
 	},
-	"c": {
+	"15": {
 		"name": "Orange Rouge Haikyu!!: Shoyo Hinata (Jersey Version) Nendoroid Action Figure",
 		"categories": ["Haikyu!!", "Figurines"],
 		"price": "RM99.99",
@@ -390,7 +390,7 @@
 			}
 		]
 	},
-	"d": {
+	"16": {
 		"name": "Good Smile No Game No Life: Shiro PVC Figure (1:7 Scale)",
 		"categories": ["No Game No Life", "Figurines"],
 		"price": "RM349.99",
@@ -403,7 +403,7 @@
 			{ "rating": 5 }, { "rating": 5 }, { "rating": 4 }, { "rating": 5 }, { "rating": 3 }, { "rating": 5 }, { "rating": 4 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 4 }
 		]
 	},
-	"e": {
+	"17": {
 		"name": "Sword Art Online Yuuki Asuna T-Shirt, Sword Art Online T-Shirt, Asuna T-Shirt, SOA T-Shirt, Anime T-Shirt, Gift For Anime Fan - Unisex)",
 		"categories": ["Sword Art Online", "Shirts"],
 		"price": "RM69.99",
@@ -412,16 +412,7 @@
 			"https://i.etsystatic.com/27705140/r/il/255569/3155983912/il_1140xN.3155983912_96zw.jpg"
 		]
 	},
-	"stress": {
-		"name": "Stress Test",
-		"stock": 1,
-		"images": [
-			"https://akibamarket.com/wp-content/uploads/2020/06/poster-kimi-no-na-wa-horizontal-copia.jpg",
-			"https://c4.wallpaperflare.com/wallpaper/438/267/603/anime-portrait-display-landscape-hd-wallpaper-preview.jpg"
-		],
-		"description": " "
-	},
-	"shopee": {
+	"18": {
 		"name": "Demon Slayer Action Figure Collection",
 		"categories": ["Demon Slayer", "Figurines"],
 		"price": "RM9.40",
