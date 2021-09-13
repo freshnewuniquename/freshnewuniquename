@@ -1,64 +1,62 @@
 {
 	"1": {
 		"name": "HISLOOKS Demon Slayer Poster Decorative Painting Canvas Wall Art Living Room Posters Bedroom Painting 16x24inch (40x60cm)",
-		"categories": {"series": "Demon Slayer", "type": "Posters"},
+		"categories": { "series": "Demon Slayer", "type": "Posters" },
 		"price": "RM49.99",
 		"stock": 40,
 		"purchaseLimit": 5,
-		"description": "**1.** Poster prints Anime Wall Art.\n**Size:**\t16x24 inches. (Note: No Frame)\n**Material:**\t100% high quality waterproof canvas, does not fade easily, and is made of environment-friendly canvas paint that is compliant with the standard.\n\n**2.** **Gift:** Will fit in any standard 12x16 frame. They also make a great one of a kind special gifts.\n\n**3.** **Suitable for:** A simple art poster that makes a great addition to bedroom, hotel, dressing room, corridor, cafe, offices, or dormitory rooms by adding color and interest to the place. The perfect statement accent piece for the head of your bed, over a couch, or a hallway.\n\n**4.** **Packaging:** Wrapped with care. Please [contact us](../contact.html) if you have any problems with the item and shipping.",
+		"description": "**1.** Poster prints Anime Wall Art.\n**Size:**\t16x24 inches. (Note: No Frame)\n**Material:**\t100% high quality waterproof canvas, does not fade easily, and is made of environment-friendly canvas paint that is compliant with the standard.\n\n**2.** **Gift:** Will fit in any standard 12x16 frame. They also make a great one of a kind special gifts.\n\n**3.** **Suitable for:** A simple art poster that makes a great addition to bedroom, hotel, dressing room, corridor, cafe, offices, or dormitory rooms by adding color and interest to the place. The perfect statement accent piece for the head of your bed, over a couch, or a hallway.\n\n**4.** **Packaging:** Wrapped with care. Please [contact us](../contact/contact.html) if you have any problems with the item and shipping.",
 		"images": [
 			"https://m.media-amazon.com/images/I/81Tq9oJjuML._AC_SL1500_.jpg",
 			"https://m.media-amazon.com/images/I/71fBZ8dOdxL._AC_SY879_.jpg",
 			"https://m.media-amazon.com/images/I/716jShTsxgL._AC_SY879_.jpg",
 			"https://m.media-amazon.com/images/I/71HCRHMng+L._AC_SY879_.jpg"
 		],
-		"video": "https://github.com/freshnewuniquename/freshnewuniquename/blob/master/Poster-Preview.mp4?raw=true",
+		"video": "../media/Poster-Preview.mp4",
 		"reviews": [
 			{
 				"name": "Jane H.",
 				"rating": 5,
-				"date": "June 01 2021"
+				"date": "Jun 01 2021"
 			},
 			{
 				"name": "John H.",
 				"rating": 4,
-				"date": "June 02 2021"
+				"date": "Jun 02 2021"
 			},
 			{
 				"name": "Ali",
 				"rating": 5,
 				"title": "Decent quality poster!",
 				"comment": "Bought this as a birthday present for my friend. I was surprised that it was actually a good quality poster! Needless to say, it was worth the purchase!",
-				"date": "June 10 2021 20:32"
+				"date": "Jun 10 2021"
 			},
 			{
 				"name": "Florentinus S.",
 				"rating": 5,
-				"date": "June 18 2021"
+				"date": "Jun 18 2021"
 			}
 		]
 	},
 	"2": {
 		"name": "Dragon Ball Z Green Tie Dye Tee",
 		"price": "RM28.00",
-		"categories": {"series": "Dragon Ball", "type": "Shirts"},
+		"categories": { "series": "Dragon Ball", "type": "Shirts" },
 		"stock": 30,
 		"purchaseLimit": 5,
-		"images": [
-			"https://cdn.shopify.com/s/files/1/0070/1700/5113/products/TSM0SANDBZ_1_1799x1800.png?v=1627400178"
-		],
+		"images": [ "https://cdn.shopify.com/s/files/1/0070/1700/5113/products/TSM0SANDBZ_1_1799x1800.png?v=1627400178" ],
 		"description": "- Short sleeve tee\n- Ribbed crew neck\n- Regular fit\n- Shrink free\n- 100% preshrunk combed ringspun cotton­­­\n- Officially licensed",
 		"reviews": [
 			{
 				"name": "Luis F.",
-				"date": "September 08 2021",
+				"date": "Sep 08 2021",
 				"rating": 5,
 				"title": "Nice",
 				"comment": "sheesh"
 			},
 			{
 				"name": "Omilliyo",
-				"date": "August 2727 2021",
+				"date": "Aug 27 2021",
 				"rating": 5,
 				"title": "Beautiful",
 				"comment": "the design in person is very beautiful. dye matched well"
@@ -68,7 +66,7 @@
 	"3": {
 		"name": "Evangelion Neon Genesis Rei White Long Sleeve",
 		"price": "RM40.00",
-		"categories": {"series": "Evangelion", "type": "Shirts"},
+		"categories": { "series": "Evangelion", "type": "Shirts" },
 		"images": [
 			"https://cdn.shopify.com/s/files/1/0070/1700/5113/products/LS97SKNGE_1_1800x1800.png?v=1599762245",
 			"https://cdn.shopify.com/s/files/1/0070/1700/5113/products/LS97SKNGE_2_1800x1800.png?v=1599762222",
@@ -82,51 +80,51 @@
 		"reviews": [
 			{
 				"name": "Omar S.",
-				"date": "July 10 2021",
+				"date": "Jul 10 2021",
 				"rating": 5,
 				"title": "Cool lookin shirt",
 				"comment": "I love the design on this shirt. It fits perfectly and the material is really comfortable. I'm very satisfied with this product."
 			},
 			{
 				"name": "Romel C.",
-				"date": "June 09 2021",
+				"date": "Jun 09 2021",
 				"rating": 5,
 				"title": "Feels real nice and superr",
 				"comment": "Feels real nice and super comfy"
 			},
 			{
 				"name": "David L.",
-				"date": "July 08 2021",
+				"date": "Jul 08 2021",
 				"rating": 5,
 				"title": "Excellent quality, design pops",
 				"comment": "Excellent quality, design pops"
 			},
 			{
 				"name": "Karloz H.",
-				"date": "April 10 2021",
+				"date": "Apr 10 2021",
 				"rating": 5,
 				"title": "They made me",
 				"comment": "Design is good the looks are good and the quality is good super product I love it"
 			},
 			{
 				"name": "Pedro J.",
-				"date": "April 10 2021",
+				"date": "Apr 10 2021",
 				"rating": 5,
 				"title": "great shirt",
 				"comment": "great shirt"
 			},
 			{
 				"name": "Cameron D.",
-				"date": "March 30 2021",
+				"date": "Mar 30 2021",
 				"rating": 5,
 				"title": "Evangelion Rei",
 				"comment": "The quality of the shirt is great and it looks and feels soft and fantastic. The print is not cheap like other anime stores, it actually looks proper and you can wear it out in public. I highly recommend buying this piece if you are a fan of Evangelion."
-			}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 4}, {"rating": 4}, {"rating": 4}, {"rating": 2}
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 4 }, { "rating": 4 }, { "rating": 4 }, { "rating":  2}
 		]
 	},
 	"4": {
 		"name": "JoJo's Bizzare Adventure Dio Wryyyy",
-		"categories": {"series": "JoJo", "type": "Shirts"},
+		"categories": { "series": "JoJo", "type": "Shirts" },
 		"price": "RM28.00",
 		"stock": 26,
 		"purchaseLimit": 5,
@@ -141,28 +139,28 @@
 			{
 				"name": "Jack M.",
 				"rating": 5,
-				"date": "August 01 2021",
+				"date": "Aug 01 2021",
 				"title": ":)",
 				"comment":  "Good design, fit and quality."
 			},
 			{
 				"name": "Stephanie M.",
 				"rating": 5,
-				"date": "June 24 2021",
+				"date": "Jun 24 2021",
 				"title": "Awesome shirt",
 				"comment":  "Awesome shirt"
 			},
 			{
 				"name": "Dylan C.",
 				"rating": 5,
-				"date": "June 15 2021",
+				"date": "Jun 15 2021",
 				"title": " ",
 				"comment": " "
 			},
 			{
 				"name": "Kyle W.",
 				"rating": 5,
-				"date": "June 11 2021",
+				"date": "Jun 11 2021",
 				"title": "Sick dio moment",
 				"comment": "Fits great!"
 			},
@@ -172,13 +170,13 @@
 				"date": "May 05 2021",
 				"title": "The picture on the shirt",
 				"comment": "The picture on the shirt could be a little more clearer"
-			}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 5}
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }
 		]
 	},
 	"5": {
 		"name": "Demon Slayer : Kimetsu No Yaiba, Vol. 1, 1",
-		"categories": {"series": "Demon Slayer", "type": "Books"},
-		"images": ["https://dw9to29mmj727.cloudfront.net/products/1974700526.jpg"],
+		"categories": { "series": "Demon Slayer", "type": "Books" },
+		"images": [ "https://dw9to29mmj727.cloudfront.net/products/1974700526.jpg" ],
 		"price": "RM9.99",
 		"stock": 33,
 		"purchaseLimit": 4,
@@ -206,13 +204,13 @@
 				"rating": 5,
 				"title": "Good book.",
 				"comment": "Good book."
-			}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 5}
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }
 		]
 	},
 	"6": {
 		"name": "Attack on Titan 34 - BAM! Exclusive",
-		"categories": {"series": "Attack on Titan", "type": "Books"},
-		"images": ["https://otakukart.com/wp-content/uploads/2021/08/attack-on-Titan-volume-34.jpg"],
+		"categories": { "series": "Attack on Titan", "type": "Books" },
+		"images": [ "https://otakukart.com/wp-content/uploads/2021/08/attack-on-Titan-volume-34.jpg" ],
 		"price": "RM10.99",
 		"stock": 14,
 		"purchaseLimit": 5,
@@ -221,7 +219,7 @@
 			{
 				"name": "Pp",
 				"rating": 5,
-				"date": "September 03 2021",
+				"date": "Sep 03 2021",
 				"title": "Sad but good",
 				"comment": "**Bottom Line** Yes, I would recomment to a friend"
 			}
@@ -229,8 +227,8 @@
 	},
 	"7": {
 		"name": "Attack on Titan 34",
-		"categories": {"series": "Attack on Titan", "type": "Books"},
-		"images": ["https://images-na.ssl-images-amazon.com/images/I/51yKt244hzL._SX330_BO1,204,203,200_.jpg"],
+		"categories": { "series": "Attack on Titan", "type": "Books" },
+		"images": [ "https://images-na.ssl-images-amazon.com/images/I/51yKt244hzL._SX330_BO1,204,203,200_.jpg" ],
 		"price": "RM10.99",
 		"stock": 30,
 		"purchaseLimit": 10,
@@ -238,8 +236,8 @@
 	},
 	"8": {
 		"name": "Haikyu!!, Vol. 1, 1",
-		"categories": {"series": "Haikyu!!", "type": "Books"},
-		"images": ["https://images-na.ssl-images-amazon.com/images/I/8125DI58M+L.jpg"],
+		"categories": { "series": "Haikyu!!", "type": "Books" },
+		"images": [ "https://images-na.ssl-images-amazon.com/images/I/8125DI58M+L.jpg" ],
 		"price": "RM9.99",
 		"stock": 36,
 		"purchaseLimit": 10,
@@ -268,12 +266,12 @@
 				"rating": 5,
 				"title": "Perfect",
 				"comment": "Came earlier than expected and is perfect"
-			}, {"rating": 5}, {"rating": 5}, {"rating": 5}, {"rating": 4}
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 4 }
 		]
 	},
 	"9": {
 		"name": "Pop Up Parade Sword Art Online Progressive: Aria of a Starless Night Kirito",
-		"categories": {"series": "Sword Art Online", "type": "Figurines"},
+		"categories": { "series": "Sword Art Online", "type": "Figurines" },
 		"images": [
 			"https://resize.cdn.otakumode.com/full/shop/product/26f2ad5f38894a239c614eb24ae560ec.jpg.webp",
 			"https://resize.cdn.otakumode.com/full/shop/product/df4ab150f3914f9bbfb6f775626dbb46.jpg.webp",
@@ -287,7 +285,7 @@
 	},
 	"10": {
 		"name": "Nendoroid Tokino Sora",
-		"categories": {"series": "Hololive", "type": "Figurines"},
+		"categories": { "series": "Hololive", "type": "Figurines" },
 		"images": [
 			"https://resize.cdn.otakumode.com/full/shop/product/47d868db31eb417eaa5fa41bd8c985f2.jpg.webp",
 			"https://resize.cdn.otakumode.com/full/shop/product/f52032fb01e646368e9bd5d0c62b9e2d.jpg.webp",
@@ -301,8 +299,8 @@
 	},
 	"11": {
 		"name": "Naruto Shippuden - Ramen Enamel Keychain",
-		"categories": {"series": "Naruto", "type": "Accessories"},
-		"images": ["https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-naruto-shippuden-ramen-enamel-keychain-28429900120108_2000x2000.jpg?v=1623778883"],
+		"categories": { "series": "Naruto", "type": "Accessories" },
+		"images": [ "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-naruto-shippuden-ramen-enamel-keychain-28429900120108_2000x2000.jpg?v=1623778883" ],
 		"price": "RM13.95",
 		"stock": 41,
 		"purchaseLimit": 20,
@@ -310,8 +308,8 @@
 	},
 	"12": {
 		"name": "Bleach - Grimmjow Keychain",
-		"categories": {"series": "Bleach", "type": "Accessories"},
-		"images": ["https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-bleach-grimmjow-keychain-18194188566572_2000x2000.jpg?v=1613514938"],
+		"categories": { "series": "Bleach", "type": "Accessories" },
+		"images": [ "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-bleach-grimmjow-keychain-18194188566572_2000x2000.jpg?v=1613514938" ],
 		"price": "RM9.95",
 		"stock": 32,
 		"purchaseLimit": 20,
@@ -319,8 +317,8 @@
 	},
 	"13": {
 		"name": "Haikyu!! - Kuroo Keychain",
-		"categories": {"series": "Haikyu!!", "type": "Accessories"},
-		"images": ["https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-haikyu-kuroo-keychain-28019777470508_2000x2000.jpg?v=1626805954"],
+		"categories": { "series": "Haikyu!!", "type": "Accessories" },
+		"images": [ "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-haikyu-kuroo-keychain-28019777470508_2000x2000.jpg?v=1626805954" ],
 		"price": "RM9.95",
 		"stock": 48,
 		"purchaseLimit": 20,
@@ -328,7 +326,7 @@
 	},
 	"14": {
 		"name": "OCQBI Demon Slayer Figure - Magic Cube Studio Shinobu Kocho Resin Made 1/6 Scale Statue, 52 cm (20.5 Inch) High, Senior and Delicate Figure Statue",
-		"categories": {"series": "Demon Slayer", "type": "Figurines"},
+		"categories": { "series": "Demon Slayer", "type": "Figurines" },
 		"images": [
 			"https://m.media-amazon.com/images/I/71tcFfFkHjL._AC_SL1371_.jpg",
 			"https://m.media-amazon.com/images/I/71H4FhGfqJL._AC_SL1456_.jpg",
@@ -344,7 +342,7 @@
 	},
 	"15": {
 		"name": "Orange Rouge Haikyu!!: Shoyo Hinata (Jersey Version) Nendoroid Action Figure",
-		"categories": {"series": "Haikyu!!", "type": "Figurines"},
+		"categories": { "series": "Haikyu!!", "type": "Figurines" },
 		"price": "RM99.99",
 		"stock": 2,
 		"purchaseLimit": 5,
@@ -359,34 +357,34 @@
 		"reviews": [
 			{
 				"name": "Trbefan",
-				"date": "January 6 2020",
+				"date": "Jan 6 2020",
 				"title": "Worth it!",
 				"rating": 5,
 				"comment": "I got this Hinata Nendroid and wasn't expecting that good of quality because I see that most androids are around RM200-RM400, but this is great! For my first nendroid figure, I'm pretty happy.\n• Box came untouched, no damage!\n• It came with all parts, as promised! (Hinata himself, the two arms with the food, his bag, stand, and extra joint piece)\n• The paint job is well done, nothing messed up"
 			},
 			{
 				"name": "Adam W",
-				"date": "June 28 2020",
+				"date": "Jun 2020",
 				"title": "Really cute figurine",
 				"rating": 4,
 				"comment": "Really love the figurine. I care a lot about the condition of the box, and there was a sticker on this one at the bottom which was impossible to remove without damaging the box. Got it for a great price so no real complaints but yeah.."
 			},
 			{
 				"name": "Startica",
-				"date": "November 2 2020",
+				"date": "Nov 2 2020",
 				"title": "Just Hinata in his school uniform",
 				"rating": 5,
 				"comment": "He's the cutest thing I've ever gott in the mail. Thank you so much!"
 			},
 			{
 				"name": "Maddie",
-				"date": "March 15 2021",
+				"date": "Mar 15 2021",
 				"title": "Official!",
 				"rating": 5,
 				"comment": "This is an official Nendroid. It comes with good add-on parts, amazing quality. I would recommend!"
 			},
 			{
-				"date": "January 26 2020",
+				"date": "Jan 26 2020",
 				"title": "...",
 				"rating": 5,
 				"comment": "Good"
@@ -436,30 +434,295 @@
 		"reviews": [
 			{
 				"name": "huiyi_c",
-				"date": "September 04 2021",
+				"date": "Sep 04 2021",
 				"rating": 5,
 				"comment": "Shipping: 5/5\nProduct: 5/5\nSeller: 5/5\nProduct worth the price.\nAll components reached safely.\nThe paint not perfect, but nvm, I painted back make it pretty.\n很容易组装，看起来不错。\n有些掉漆的地方，自己补色，嘻嘻。\n买来送人的，不错，很满意。😍\n会再光顾。"
 			},
 			{
 				"name": "noorhaerani",
-				"date": "August 30 2021",
+				"date": "Aug 30 2021",
 				"rating": 5,
 				"title": "Cute cute cute cute😍😍😍😍😍😍😍😍😍😍😍😍😍 👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻",
 				"comment": " "
 			},
 			{
 				"name": "nurfitrahazhar",
-				"date": "August 31 2021",
+				"date": "Aug 31 2021",
 				"rating": 5,
 				"comment": "Good quality ..  fast delivery and very cutee.. also look so cool 😆"
 			},
 			{
 				"name": "shafiya_art",
-				"date": "August0 02 2021",
+				"date": "Aug 02 2021",
 				"rating": 5,
 				"comment": "Barang smpai dlm keadaan baik 🥰 harga berpatutan dgn kualiti ❤️👍🏻🥰"
 			},
 			{ "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }
+		]
+	},
+	"19": {
+		"name": "ATTACK ON TITAN - FIRE",
+		"categories": { "series": "Attack on Titan", "type": "Posters" },
+		"images": [
+			"https://imgc.allpostersimages.com/img/posters/attack-on-titan-fire_u-L-F9L2MY0.jpg?artHeight=550&artPerspective=n&artWidth=550&background=ffffff",
+			"https://imgc.allpostersimages.com/img/posters/attack-on-titan-fire_u-L-F9L2MY0.jpg?artHeight=550&artLifeStyle=68&artWidth=550&background=ffffff",
+			"https://imgc.allpostersimages.com/img/posters/attack-on-titan-fire_u-L-F9L2MY0.jpg?artHeight=550&artLifeStyle=64&artWidth=550&background=ffffff",
+			"https://imgc.allpostersimages.com/img/posters/attack-on-titan-fire_u-L-F9L2MY0.jpg?artHeight=550&artLifeStyle=54&artWidth=550&background=ffffff"
+		],
+		"price": "RM41.99",
+		"stock": 11,
+		"purchaseLimit": 10,
+		"description": "**Television Art**\nIntroduce your space to the good kind of drama or make laughter a routine with television art. Our collection will have you reciting your favorite dialogs as you watch old classics, sweet rom coms, and quirky cartoons.\n\n**The Laminate**\nThis laminated poster is enclosed behind a clear sheet of long-lasting laminate film. An affordable and effective way to preserve your poster, lamination provides protection against fading, fingerprints and other contaminants."
+	},
+	"20": {
+		"name": "Dragon Ball Z - Frieza Prize Figure",
+		"categories": { "series":"Dragon Ball", "type":"Figurines" },
+		"images": [ "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/banpresto-pvc-scale-figures-dragon-ball-z-frieza-prize-figure-17172996587564_2000x2000.jpg?v=1603920811" ],
+		"price": "RM26.99",
+		"stock": 5,
+		"purchaseLimit": 9,
+		"description": "*Size approx*: 5” inches tall\n**Material**: PVC, ABS\n**Manufacturer**: Banpresto",
+		"reviews": [
+			{
+				"name": "Bradley H.",
+				"rating": 5,
+				"date": "Jul 2021",
+				"title": "GREAT DETAIL AND VALUE",
+				"comment": "This is a very well made statue with very minimal assembly. The energy rays for the ball can be a little flimsy but if you want that extra security, a dot of super glue on the tips will be plenty to keep things together. Overall amazing quality and a very affordable price! 10/10"
+			},
+			{
+				"name": "Kourtney S.",
+				"rating": 5,
+				"date": "Jul 2021",
+				"title": "GOOD!",
+				"comment": "I love it."
+			}
+		]
+	},
+	"21": {
+		"name": "Evangelion: 3.0 + 1.0 Poster",
+		"categories": { "series": "Evangelion", "type": "Posters" },
+		"images": [
+			"https://ih1.redbubble.net/image.1056362847.1454/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+			"https://ih1.redbubble.net/image.1056362847.1454/cposter,small,square_product,1000x1000.2.jpg"
+		],
+		"price": "RM13.79",
+		"stock": 101,
+		"purchaseLimit": 10,
+		"description": "**Features**\n- Blank walls suck, so bring some life to your dorm, bedroom, office, studio, wherever\n- Printed on 185gsm semi gloss poster paper\n- Custom cut - refer to size chart for finished measurements\n- Includes a 3/16 inch (5mm) white border to assist in framing\n\n**Finish**\nSemi gloss\n\n**Size Guide**\n**Inch**\nSize    Small\nWidth   15.5\nHeight  23.2\n**CM**\nSize    Small\nWidth   39.5\nHeight  59\n\nEvangelion: 3.0 + 1.0 2020.\nGod is in his heaven. All is right with the world. Japanese Release Poster Arts.\n\nReturns are free and easy.\nBecause you need to be happy. We all do",
+		"reviews": [
+			{
+				"name": "Chad G.",
+				"rating": 5,
+				"date": "Aug 25 2021",
+				"title": "Love it!",
+				"comment": "Love it!"
+			},
+			{
+				"name": "Michaela E.",
+				"rating": 4,
+				"date": "Aug 02 2021",
+				"title": "Everything is fine.",
+				"comment": "Everything is fine."
+			},
+			{
+				"name": "Sydney S.",
+				"rating": 5,
+				"date": "Jul 23 2021",
+				"title": "poster was perfect",
+				"comment": "poster was perfect"
+			},
+			{
+				"name": "Shaahid",
+				"rating": 5,
+				"date": "Jul 19 2021",
+				"title": "Great product",
+				"comment": "Great product"
+			},
+			{
+				"name": "Lisa",
+				"rating": 5,
+				"date": "Jun 03 2021",
+				"title": "Looks fantastic",
+				"comment": "This was a present for my daughter. It arrived in good time, was well packaged, and is great quality. She loved it and it looks fantastic on her wall! Would definitely recommend."
+			},
+			{
+				"name": "Deanne",
+				"rating": 5,
+				"date": "May 23 2021",
+				"title": "Very happy",
+				"comment": "Looks fantastic. Great quality print and paper."
+			},
+			{
+				"name": "Richard G.",
+				"rating": 5,
+				"date": "May 14 2021",
+				"title": "Recently redecorated the ladies toilets",
+				"comment": "Recently redecorated the ladies toilets in our pub. Locals love the posters."
+			},
+			{
+				"name": "Andrea",
+				"rating": 5,
+				"date": "May 09 2021",
+				"title": "Excellent Quality!",
+				"comment": "Excellent Quality!"
+			},
+			{
+				"name": "Lara P",
+				"rating": 4,
+				"date": "May 07 2021",
+				"title": "Nice postet but too pricy",
+				"comment": "Nice postet but too pricy"
+			},
+			{
+				"name": "Chad G.",
+				"rating": 5,
+				"date": "Aug 25 2021",
+				"title": "Love it!",
+				"comment": "Love it!"
+			},
+			{
+				"name": "Daniella",
+				"rating": 5,
+				"date": "Apr 22 2021",
+				"title": "it’s so pretty and the!",
+				"comment": "it’s so pretty and the size is just perfect! i love it!!"
+			},
+			{
+				"name": "Thomas B.",
+				"rating": 5,
+				"date": "Apr 16 2021",
+				"title": "Love it :)",
+				"comment": "Love it :)"
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 4 }, { "rating": 4 }, { "rating": 4 }, { "rating": 2 }
+		]
+	},
+	"22": {
+		"name": "Jojo S Poster",
+		"categories": { "series": "JoJo", "type": "Posters" },
+		"images": [ "https://static.displate.com/857x1200/displate/2021-02-23/8908e0d208805efd060ac18eb8e156c0_bc59981f540fe65ecbf6d00ee4780a02.jpg" ],
+		"price": "RM44.00",
+		"stock": 99,
+		"purchaseLimit": 5,
+		"description": "- Quality checked\n- Handmade in the EU\n- Bend edges\n- Hologram of authenticity"
+	},
+	"23": {
+		"name": "Tako Ina Sticker",
+		"categories": { "series": "Hololive", "type": "Sticker" },
+		"images": [
+			"https://ih1.redbubble.net/image.1691633044.6298/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+			"https://ih1.redbubble.net/image.1691633044.6298/sss,small,product_square,1000x1000.jpg"
+		],
+		"price": "RM10.00",
+		"stock": 3,
+		"purchaseLimit": 5,
+		"description": "**Features**\n- Decorate and personalize laptops, windows, and more\n- Removable, kiss-cut vinyl stickers\n- Super durable and water-resistant\n- 1/8 inch (3.2mm) white border around each design\n- Matte finish\n- Sticker types may be printed and shipped from different locations\n\n**Size Guide**\n**Inch**\nSize    Small\nWidth   3\nHeight  3.1\n**CM**\nSize    Small\nWidth   7.6\nHeight  8\n\nReturns are free and easy.\nBecause you need to be happy. We all do.",
+		"reviews": [
+			{
+				"name": "Svaarces",
+				"rating": 5,
+				"date": "Sep 08 2021",
+				"title": "Awesome",
+				"comment": "Great!"
+			},
+			{
+				"name": "Samantha",
+				"rating": 5,
+				"date": "Sep 02 2021",
+				"title": "Good Quality",
+				"comment": "Good quality, looks great on our side table in our ber."
+			},
+			{
+				"name": "Josh L.",
+				"rating": 5,
+				"date": "Sep 01 2021",
+				"title": "Sticker looks good",
+				"comment": "Sticker looks good"
+			},
+			{
+				"name": "Remi",
+				"rating": 5,
+				"date": "Sep 01 2021",
+				"title": "Recommended!",
+				"comment": "Very happy with my purchase!"
+			},
+			{
+				"name": "Reiner R.",
+				"rating": 5,
+				"date": "Aug 28 2021",
+				"title": "verry good",
+				"comment": "Verry good"
+			},
+			{
+				"name": "Spencer T.",
+				"rating": 5,
+				"date": "Aug 26 2021",
+				"title": "Best of the best",
+				"comment": "Best of the best"
+			},
+			{
+				"name": "Kimberly",
+				"rating": 5,
+				"date": "Aug 12 2021",
+				"title": "Best stickers, so fun to search!",
+				"comment": "Akiba stickers are fantastic! For several years now, I have been buying stickers from Akiba and using them to decorate beverage containers as grad gifts or for other moments during the year. The sticker designs are awesome and the quality is top notch. You can put bottles/tumblers in the dish washer too and the stickers stay put! Love them!"
+			}
+		]
+	},
+	"24": {
+		"name": "Japanese Ramen Noodles Bowl Sticker",
+		"categories": { "type": "Sticker" },
+		"price": "RM16.50",
+		"stock": 44,
+		"purchaseLimit": 4,
+		"images": [
+			"https://ih1.redbubble.net/image.513535564.4970/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u4.jpg",
+			"https://ih1.redbubble.net/image.513535564.4970/sss,small,product_square,1000x1000.u4.jpg"
+		],
+		"description": "**Features**\n- Decorate and personalize laptops, windows, and more\n- Removable, kiss-cut vinyl stickers Super durable and water-resistant\n- 1/8 inch (3.2mm) white border around each design\n- Matte finish\n- Sticker types may be printed and shipped from different locations\n\n**Size Chart**\n**Inch**\nSize    Small\nWidth   3.5\nHeight  3\n**CM**\nSize    Small\nWidth   8.8\nHeight  7.6\n\nReturns are free and easy.\nBecause you need to be happy. We all do.",
+		"reviews": [
+			{
+				"name": "Micha v.",
+				"rating": 5,
+				"date": "Aug 12 2021",
+				"title": "It looks great on my car",
+				"comment": "It looks great on my car, Happy with the result"
+			},
+			{
+				"name": "Zander v.",
+				"rating": 5,
+				"date": "Aug 08 2021",
+				"title": "loved it",
+				"comment": "loved it"
+			},
+			{
+				"name": "Davida",
+				"rating": 5,
+				"date": "Aug 05 2021",
+				"title": "Done very well",
+				"comment": "Done very well"
+			},
+			{
+				"name": "Corrine",
+				"rating": 5,
+				"date": "Jul 27 2021",
+				"title": "Great color durable stickers!!",
+				"comment": "Great color durable stickers!!"
+			},
+			{
+				"name": "Sandra",
+				"rating": 5,
+				"date": "July 25 2021",
+				"title": "Great!",
+				"comment": "Great!"
+			},
+			{
+				"name": "Lauren A.",
+				"rating": 5,
+				"date": "Jul 25 2021",
+				"title": "Love the stickers for my water bottle",
+				"comment": "Love the stickkers for my water bottle"
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 4 }
 		]
 	}
 }
