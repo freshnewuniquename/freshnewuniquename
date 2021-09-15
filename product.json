@@ -3,7 +3,7 @@
 		"name": "HISLOOKS Demon Slayer Poster Decorative Painting Canvas Wall Art Living Room Posters Bedroom Painting 16x24inch (40x60cm)",
 		"categories": { "series": "Demon Slayer", "type": "Posters" },
 		"price": "RM49.99",
-		"stock": 40,
+		"available": true,
 		"purchaseLimit": 5,
 		"description": "**1.** Poster prints Anime Wall Art.\n**Size:**\t16x24 inches. (Note: No Frame)\n**Material:**\t100% high quality waterproof canvas, does not fade easily, and is made of environment-friendly canvas paint that is compliant with the standard.\n\n**2.** **Gift:** Will fit in any standard 12x16 frame. They also make a great one of a kind special gifts.\n\n**3.** **Suitable for:** A simple art poster that makes a great addition to bedroom, hotel, dressing room, corridor, cafe, offices, or dormitory rooms by adding color and interest to the place. The perfect statement accent piece for the head of your bed, over a couch, or a hallway.\n\n**4.** **Packaging:** Wrapped with care. Please [contact us](../contact/contact.html) if you have any problems with the item and shipping.",
 		"images": [
@@ -17,7 +17,7 @@
 			{
 				"name": "Jane H.",
 				"rating": 5,
-				"date": "Jun 01 2021"
+				"date": "Aug 01 2021"
 			},
 			{
 				"name": "John H.",
@@ -42,7 +42,7 @@
 		"name": "Dragon Ball Z Green Tie Dye Tee",
 		"price": "RM28.00",
 		"categories": { "series": "Dragon Ball", "type": "Shirts" },
-		"stock": 30,
+		"available": true,
 		"purchaseLimit": 5,
 		"images": [ "https://cdn.shopify.com/s/files/1/0070/1700/5113/products/TSM0SANDBZ_1_1799x1800.png?v=1627400178" ],
 		"description": "- Short sleeve tee\n- Ribbed crew neck\n- Regular fit\n- Shrink free\n- 100% preshrunk combed ringspun cotton­­­\n- Officially licensed",
@@ -74,7 +74,7 @@
 			"https://cdn.shopify.com/s/files/1/0070/1700/5113/products/LS97SKNGE_4_1800x1800.jpg?v=1599762182",
 			"https://cdn.shopify.com/s/files/1/0070/1700/5113/products/LS97SKNGE_5_1800x1800.jpg?v=1599762179"
 		],
-		"stock": 22,
+		"available": true,
 		"purchaseLimit": 2,
 		"description": "- Long sleeve tee\n- Ribbed crew neck\n- Regular fit\n- Shrink free\n- 100% preshrunk combed ringspun cotton\n- Officially licensed",
 		"reviews": [
@@ -126,7 +126,7 @@
 		"name": "JoJo's Bizzare Adventure Dio Wryyyy",
 		"categories": { "series": "JoJo", "type": "Shirts" },
 		"price": "RM28.00",
-		"stock": 26,
+		"available": true,
 		"purchaseLimit": 5,
 		"images": [
 			"https://cdn.shopify.com/s/files/1/0070/1700/5113/products/TS8H46JOJ_1copy_1000x1000.png?v=1599769201",
@@ -178,7 +178,7 @@
 		"categories": { "series": "Demon Slayer", "type": "Books" },
 		"images": [ "https://dw9to29mmj727.cloudfront.net/products/1974700526.jpg" ],
 		"price": "RM9.99",
-		"stock": 33,
+		"available": true,
 		"purchaseLimit": 4,
 		"description": "Tanjiro sets out on the path of the Demon Slayer to save his sister and avenge his family\nIn Taisho-era Japan, kindhearted Tanjiro Kamado makes a living selling charcoal. But his peaceful life is shattered when a demon slaughters his entire family. His little sister Nezuko is the only survivor, but she has been transformed into a demon herself Tanjiro sets out on a dangerous journey to find a way to return his sister to normal and destroy the demon who ruined his life.\n\nLearning to destroy demons won't be easy, and Tanjiro barely knows where to start. The surprise appearance of another boy named Giyu, who seems to know what's going on, might provide some answers--but only if Tanjiro can stop Giyu from killing his sister first.\n\n\n**ISBN-13**: 9781974700523\n**ISBN-10**: 1974700526\n**Publisher**: Viz Media\n **Publish Date**: July 2018\n**Page Count**: 192\n**Reading Level**: Ages 14-17\n **Dimensions**: 7.4 x 5 x 0.9 inches\n**Shipping Weight**: 0.36 pounds\n\n**Series**: Demon Slayer: Kimetsu No Yaiba #1",
 		"reviews": [
@@ -212,7 +212,7 @@
 		"categories": { "series": "Attack on Titan", "type": "Books" },
 		"images": [ "https://otakukart.com/wp-content/uploads/2021/08/attack-on-Titan-volume-34.jpg" ],
 		"price": "RM10.99",
-		"stock": 14,
+		"available": true,
 		"purchaseLimit": 5,
 		"description": "**Featuring an exclusive cover previously released only in Japan, this BAM! Exclusive English version is a must-have for any Attack on Titan fan! Due to limited stock, multi-copy orders may be reduced to 5 copies per household.**\n\n[Click Here for the regular edition](../product/product.html?id=7)\n\n**The blockbuster action manga that inspired the epic anime stampedes towards its climax**\nThe saga of humanity and the predatory Titans edges closer to its thrilling conclusions. The mysteries of the Titans are being revealed... who will escape death at the hands of giants and human beings? \n\n**ISBN-13**: 9781646514601\n**ISBN-10**: 1646514602\n**Publisher**: Kodansha Comics\n**Publish Date**: October 2021",
 		"reviews": [
@@ -230,7 +230,7 @@
 		"categories": { "series": "Attack on Titan", "type": "Books" },
 		"images": [ "https://images-na.ssl-images-amazon.com/images/I/51yKt244hzL._SX330_BO1,204,203,200_.jpg" ],
 		"price": "RM10.99",
-		"stock": 30,
+		"available": true,
 		"purchaseLimit": 10,
 		"description": "[Click Here For the BAM Exclusive Edition](../product/product.html?id=6)\n\n**The blockbuster action manga that inspired the epic anime stampedes towards its climax**\nThe saga of humanity and the predatory Titans edges closer to its thrilling conclusions. The mysteries of the Titans are being revealed... who will escape death at the hands of giants and human beings?\n **ISBN-13**: 9781646512362\n**ISBN-10**: 1646512367\n**Publisher**: Kodansha Comics\n**Publish Date**: October 2021\n**Page Count**: 256\n\n**Series**: Attack on Titan"
 	},
@@ -239,7 +239,7 @@
 		"categories": { "series": "Haikyu!!", "type": "Books" },
 		"images": [ "https://images-na.ssl-images-amazon.com/images/I/8125DI58M+L.jpg" ],
 		"price": "RM9.99",
-		"stock": 36,
+		"available": true,
 		"purchaseLimit": 10,
 		"description": "Shoyo Hinata is out to prove that in volleyball you don't need to be tall to fly\nEver since he saw the legendary player known as \"the Little Giant\" compete at the national volleyball finals, Shoyo Hinata has been aiming to be the best volleyball player ever Who says you need to be tall to play volleyball when you can jump higher than anyone else?\n\nAfter losing his first and last volleyball match against Tobio Kageyama, \"the King of the Court,\" Shoyo Hinata swears to become his rival after graduating middle school. But what happens when the guy he wants to defeat ends up being his teammate?",
 		"reviews": [
@@ -278,9 +278,12 @@
 			"https://resize.cdn.otakumode.com/full/shop/product/425e85be9cde4849baff095919ca29c2.jpg.webp"
 		],
 		"price": "RM20.99",
-		"stock": 15,
+		"available": true,
 		"purchaseLimit": 3,
-		"description": "**Manufacturer**: Good Smile Company\n**Sculptor**: Design COCO\n**Specifications**: Painted non-scale ABS & PVC figure with stand\n**Height** (approx.)**:** 180 mm | 7.1\"\n\n*Order Limit: 3 per person*\n\n**\"My life is yours, Asuna. So I'll live for your sake.\"**\nFrom Good Smile Company’s Pop Up Parade series of affordably priced and easy-to-display fixed-pose figures comes a figure of Kirito as he appears in the animated movie Sword Art Online Progressive: Aria of a Starless Night! Sculpted by Design COCO, he measures 7.1” tall and is captured in his Black Swordsman outfit from the Aincrad arc smiling confidently as he wields Dark Repulser in his left hand and reaches back to unsheath Elucidator with his right. A figure of Asuna is also up for pre-order at the same time, so make sure to get them both to keep the lovebirds together in your collection!"
+		"description": "**Manufacturer**: Good Smile Company\n**Sculptor**: Design COCO\n**Specifications**: Painted non-scale ABS & PVC figure with stand\n**Height** (approx.)**:** 180 mm | 7.1\"\n\n*Order Limit: 3 per person*\n\n**\"My life is yours, Asuna. So I'll live for your sake.\"**\nFrom Good Smile Company’s Pop Up Parade series of affordably priced and easy-to-display fixed-pose figures comes a figure of Kirito as he appears in the animated movie Sword Art Online Progressive: Aria of a Starless Night! Sculpted by Design COCO, he measures 7.1” tall and is captured in his Black Swordsman outfit from the Aincrad arc smiling confidently as he wields Dark Repulser in his left hand and reaches back to unsheath Elucidator with his right. A figure of Asuna is also up for pre-order at the same time, so make sure to get them both to keep the lovebirds together in your collection!",
+		"reviews": [
+			{ "rating": 5 }, { "rating": 5 }, { "rating": 3 }, { "rating": 3 } 
+		]
 
 	},
 	"10": {
@@ -293,7 +296,7 @@
 			"https://resize.cdn.otakumode.com/full/shop/product/477df7f12e4d481087b69c62a647dcab.jpg.webp"
 		],
 		"price": "RM44.74",
-		"stock": 23,
+		"available": true,
 		"purchaseLimit": 5,
 		"description": "**Manufacturer**: Max Factory\n**Sculptor**: Shichibee\n**Specifications**: Painted, articulated, non-scale ABS & PVC figure with optional parts and stand\n**Height** (approx.): 100 mm | 3.9\"\n\n*Order Limit: 3 per person*\n\n**“Hey, Sora-tomo! How are you all doing? It's me, Tokino Sora!”**\n\nFrom Max Factory with sculpting by Shichibee comes a Nendoroid figure of the founding member of hololive production and their first-ever Virtual YouTuber - Tokino Sora! Measuring 3.9” tall, the easy-going, motherly Vtuber’s idol-like look has been faithfully recreated in chibi Nendoroid size, and she comes with three face plates to display her giving a bright smile, smiling with eyes closed, or staring.\n\nOptional parts include her mascot teddy bear Ankimo, a pair of cat ears and cat paws, a mic she can hold, and interchangeable hand parts so you can display her on stage putting on a concert just for you! Also included is a special stand featuring her name and image color to display her on. Don’t miss out on adding Sora-chan to your collection!"
 	},
@@ -302,25 +305,103 @@
 		"categories": { "series": "Naruto", "type": "Accessories" },
 		"images": [ "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-naruto-shippuden-ramen-enamel-keychain-28429900120108_2000x2000.jpg?v=1623778883" ],
 		"price": "RM13.95",
-		"stock": 41,
+		"available": true,
 		"purchaseLimit": 20,
-		"description": "- Officially licensed\n- Material: Enamel"
+		"description": "- Officially licensed\n- Material: Enamel",
+		"reviews": [
+			{
+				"name": "Irene96",
+				"rating": 5,
+				"date": "Dec 21 2021",
+				"title": "Naruto keychain",
+				"comment": "It’s a great addition and just looks so cool overall!!!!"
+			},
+			{
+				"name": "Dunne",
+				"rating": 5,
+				"date": "Dec 17 2021",
+				"title": "Keychain",
+				"comment": "Really good quality"
+			},
+			{
+				"rating": 5,
+				"date": "Nov 06 2021",
+				"title": "naruto keychain",
+				"comment": "Really cool enamel keychain, has a silver shine to it which makes it look cool in my opinion"
+			},
+			{
+				"rating": 5,
+				"date": "Nov 03 2021",
+				"title": "Box lunch keychain review",
+				"comment": "It's a great and very cute keychain, I like how it is made of Metal not plastic"
+			}
+		]
 	},
 	"12": {
 		"name": "Bleach - Grimmjow Keychain",
 		"categories": { "series": "Bleach", "type": "Accessories" },
 		"images": [ "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-bleach-grimmjow-keychain-18194188566572_2000x2000.jpg?v=1613514938" ],
 		"price": "RM9.95",
-		"stock": 32,
+		"available": true,
 		"purchaseLimit": 20,
-		"description": "- Officially licensed\n- Grimmjow stands at 2.75\"\n- Material: PVC"
+		"description": "- Officially licensed\n- Grimmjow stands at 2.75\"\n- Material: PVC",
+		"reviews": [
+			{
+				"name": "Lu",
+				"rating": 5,
+				"date": "Aug 12 2021",
+				"title": "Percect condition!",
+				"comment": "I love how grimmjow looks! So cute! It came in perfect condition and now he's on my car keychain <}"
+			},
+			{
+				"name": "Heather Nida",
+				"rating": 5,
+				"date": "May 24 2021",
+				"title": "Really Cute.",
+				"comment": "I love my new keychain."
+			},
+			{
+				"name": "BJ Bowman",
+				"rating": 4,
+				"date": "May 14 2021",
+				"title": "Gift for my nephew for just being a good guy...looks good and bigger than I thought it would be. I cannot speak on the durability since I just got it. I may write a follow-up based on what my nephew tells me."
+			},
+			{
+				"name": "Alexis",
+				"rating": 5,
+				"date": "June 06 2020",
+				"title": "6th Espada perfect condition",
+				"comment": "the keychain came in authentic and perfect quality. I hang him on my purse and ofc piplup NOT included.\n![buyer's picture](https://images-na.ssl-images-amazon.com/images/I/71bnPsHP89L.jpg)"
+			},
+			{
+				"name": "Jackie king",
+				"rating": 5,
+				"date": "Feb 14 2020",
+				"title": "She was delighted",
+				"comment": "My daughter loves Grimmjow and was super happy and pleased getting this for Christmas"
+			},
+			{
+				"name": "MrKeso",
+				"rating": 5,
+				"date": "Dec 26 2019",
+				"title": "Would Recommend",
+				"comment": "I really liked real good quality"
+			},
+			{
+				"name": "Grimshaw",
+				"rating": 4,
+				"date": "May 10 2019",
+				"title": "thumbs up.",
+				"comment": "My daughter loves Grimmjow and was super happy and pleased getting this for Christmas"
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 3 } 
+		]
 	},
 	"13": {
 		"name": "Haikyu!! - Kuroo Keychain",
 		"categories": { "series": "Haikyu!!", "type": "Accessories" },
 		"images": [ "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/gee-keychains-haikyu-kuroo-keychain-28019777470508_2000x2000.jpg?v=1626805954" ],
 		"price": "RM9.95",
-		"stock": 48,
+		"available": true,
 		"purchaseLimit": 20,
 		"description": "- Officially licensed\n- Kuroo stands at 2.75\"\n- Material: PVC"
 	},
@@ -336,7 +417,7 @@
 			"https://m.media-amazon.com/images/I/61eZAze7bJL._AC_SL1500_.jpg"
 		],
 		"price": "RM942.99",
-		"stock": 3,
+		"available": true,
 		"purchaseLimit": 1,
 		"description": "**[Product Specs]**\nKimetsu no Yaiba (Demon Slayer) Kochou Shinobu 1/6 Scale Resin Made Statue, Approximately 520 mm, painted finished figure\n\n**[Statue Dimensions]**\n52 cm × 35 cm × 45 cm\n\n**[Collection Level GK Figure]**\nThere is a high quality original color box package, complete with protective material, and a unique numbered nameplate. Production is expected to be completed in January 2021 and certain sales times may be delayed or advanced. Delivered to international logistics within one week after the end of production.\n\n**[Please check directly before signing for the express]**\nThe value of this product is relatively high. For product safety, we have implemented multiple layers of protection on the packaging and put in full insurance. If the inspection finds any damage, we will ask the logistics company to compensate and assist in repairing or sending the damaged parts.\n\n**[Yukiya's evaluation]**\nIf one of the most beautiful and well-known Demon Slayer GK is selected in the world, this product must be among them. Up to now, the collection price of the Chinese version has exceeded three times that at the time of sale, and there is no market. Exquisite workmanship, perfect design, everything is the best. If you are a fan of Demon Slayer, believe me, it is worth buying."
 	},
@@ -344,7 +425,7 @@
 		"name": "Orange Rouge Haikyu!!: Shoyo Hinata (Jersey Version) Nendoroid Action Figure",
 		"categories": { "series": "Haikyu!!", "type": "Figurines" },
 		"price": "RM99.99",
-		"stock": 2,
+		"available": true,
 		"purchaseLimit": 5,
 		"description": "**A Nendoroid of Hinata wearing his sports jersey!**\nFrom \"Haikyu!!\", the popular volleyball anime and manga series, comes an updated version of Nendoroid Shoyo Hinata wearing his sports jersey! He comes with a smiling expression overflowing with confidence, and the unique way that he wears his jersey has been faithfully preserved on the Nendoroid. Optional parts include meat buns and the bag he uses when going to the volleyball club. This version also includes a round base with a volleyball pattern as well as a background sheet based on the Sakanoshita Store! Be sure to display him with [Nendoroid Tobio Kageyama: Jersey Ver.](https://www.goodsmile.info/en/product/7011/Nendoroid+Tobio+Kageyama+Jersey+Ver.html)!",
 		"images": [
@@ -357,34 +438,34 @@
 		"reviews": [
 			{
 				"name": "Trbefan",
-				"date": "Jan 6 2020",
+				"date": "Aug 26 2021",
 				"title": "Worth it!",
 				"rating": 5,
 				"comment": "I got this Hinata Nendroid and wasn't expecting that good of quality because I see that most androids are around RM200-RM400, but this is great! For my first nendroid figure, I'm pretty happy.\n• Box came untouched, no damage!\n• It came with all parts, as promised! (Hinata himself, the two arms with the food, his bag, stand, and extra joint piece)\n• The paint job is well done, nothing messed up"
 			},
 			{
 				"name": "Adam W",
-				"date": "Jun 2020",
+				"date": "Aug 12 2021",
 				"title": "Really cute figurine",
 				"rating": 4,
 				"comment": "Really love the figurine. I care a lot about the condition of the box, and there was a sticker on this one at the bottom which was impossible to remove without damaging the box. Got it for a great price so no real complaints but yeah.."
 			},
 			{
 				"name": "Startica",
-				"date": "Nov 2 2020",
+				"date": "Aug 02 2021",
 				"title": "Just Hinata in his school uniform",
 				"rating": 5,
 				"comment": "He's the cutest thing I've ever gott in the mail. Thank you so much!"
 			},
 			{
 				"name": "Maddie",
-				"date": "Mar 15 2021",
+				"date": "Jul 25 2021",
 				"title": "Official!",
 				"rating": 5,
 				"comment": "This is an official Nendroid. It comes with good add-on parts, amazing quality. I would recommend!"
 			},
 			{
-				"date": "Jan 26 2020",
+				"date": "Jul 24 2021",
 				"title": "...",
 				"rating": 5,
 				"comment": "Good"
@@ -395,7 +476,7 @@
 		"name": "Good Smile No Game No Life: Shiro PVC Figure (1:7 Scale)",
 		"categories": {"series": "No Game No Life", "type": "Figurines"},
 		"price": "RM349.99",
-		"stock": 1,
+		"available": true,
 		"description": "**A rerelease of the Shiro figure that brings out the No Game no Life universe!**\nFrom the anime series *'No Game No Life'* comes a rerelease of the 1/7th scale figure of the younger of the *'Kuuhaku'* gamer siblings, Shiro! The creative touch and colors of the original illustration that the figure is based on have been faithfully preserved with careful sculptwork and painting.\n\nHer special base features the pattern of a chess board as well as a miniaturized Imanity throne. Chibi character figures of Sora, Izuna, Jibril and Steph are all also included with the figure! Enjoy the No Game No Life world with just one figure!",
 		"images": [
 			"https://m.media-amazon.com/images/I/61WGrQGgSOL._AC_SL1000_.jpg"
@@ -406,18 +487,18 @@
 	},
 	"17": {
 		"name": "Sword Art Online Yuuki Asuna T-Shirt, Sword Art Online T-Shirt, Asuna T-Shirt, SOA T-Shirt, Anime T-Shirt, Gift For Anime Fan - Unisex)",
-		"categories": {"series": "Sword Art Online", "type": "Shirts"},
+		"categories": { "series": "Sword Art Online", "type": "Shirts" },
 		"price": "RM69.99",
-		"stock": 0,
+		"available": true,
 		"images": [
 			"https://i.etsystatic.com/27705140/r/il/255569/3155983912/il_1140xN.3155983912_96zw.jpg"
 		]
 	},
 	"18": {
 		"name": "Demon Slayer Action Figure Collection",
-		"categories": {"series": "Demon Slayer", "type": "Figurines"},
+		"categories": { "series": "Demon Slayer", "type": "Figurines" },
 		"price": "RM9.40",
-		"stock": 20,
+		"available": true,
 		"images": [
 			"https://cf.shopee.com.my/file/1a8fa44c5372ff86552bddc1342495c4",
 			"https://cf.shopee.com.my/file/022a74d933fdc498d13a0a6c544c31f9",
@@ -430,7 +511,7 @@
 			"https://cf.shopee.com.my/file/ebb7960f57a20aea1cb6e9743a5b68fd"
 		],
 		"video": "https://cvf.shopee.com.my/file/ccf72052889574b9daa58ed30ab66a66",
-		"description": "__**Kimetsu No Yaiba Demon Slayer Action Figures (NO BOX)**__\n - **Small Size**: 6.5 - 7.5 cm (height).\n - **Large Size**: 16 cm (height), with base/stand.\n - **Material**: Solid PVC & anti-crash material.\n - Suitable for kids aged 3 years and above or for model collectors.\n - Good detail, precision and modern.\n - Fine finish, bright color.\n - Good for collection, displaying, cake decorations etc...\n\nNote:\n **\\*** This product is packed in OPP bag, not paper box.\n **\\*** Due to different monitor and light effect, the actual color of the item might be slightly different from the color showed on the pictures.\n **\\*** Please allow 1 - 3cm measuring deviation due to different manual measurement.",
+		"description": "__**Kimetsu No Yaiba Demon Slayer Action Figures (NO BOX)**__\n - **Small Size**: 6.5 - 7.5 cm (height).\n - **Large Size**: 16 cm (height), with base/stand.\n - **Material**: Solid PVC & anti-crash material.\n - Suitable for kids aged 3 years and above or for model collectors.\n - Good detail, precision and modern.\n - Fine finish, bright color.\n - Good for collection, displaying, cake decorations etc...\n\nNote:\n * This product is packed in OPP bag, not paper box.\n * Due to different monitor and light effect, the actual color of the item might be slightly different from the color showed on the pictures.\n * Please allow 1 - 3cm measuring deviation due to different manual measurement.",
 		"reviews": [
 			{
 				"name": "huiyi_c",
@@ -470,7 +551,7 @@
 			"https://imgc.allpostersimages.com/img/posters/attack-on-titan-fire_u-L-F9L2MY0.jpg?artHeight=550&artLifeStyle=54&artWidth=550&background=ffffff"
 		],
 		"price": "RM41.99",
-		"stock": 11,
+		"available": true,
 		"purchaseLimit": 10,
 		"description": "**Television Art**\nIntroduce your space to the good kind of drama or make laughter a routine with television art. Our collection will have you reciting your favorite dialogs as you watch old classics, sweet rom coms, and quirky cartoons.\n\n**The Laminate**\nThis laminated poster is enclosed behind a clear sheet of long-lasting laminate film. An affordable and effective way to preserve your poster, lamination provides protection against fading, fingerprints and other contaminants."
 	},
@@ -479,9 +560,9 @@
 		"categories": { "series":"Dragon Ball", "type":"Figurines" },
 		"images": [ "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/banpresto-pvc-scale-figures-dragon-ball-z-frieza-prize-figure-17172996587564_2000x2000.jpg?v=1603920811" ],
 		"price": "RM26.99",
-		"stock": 5,
+		"available": true,
 		"purchaseLimit": 9,
-		"description": "*Size approx*: 5” inches tall\n**Material**: PVC, ABS\n**Manufacturer**: Banpresto",
+		"description": "**Size approx**: 5” inches tall\n**Material**: PVC, ABS\n**Manufacturer**: Banpresto",
 		"reviews": [
 			{
 				"name": "Bradley H.",
@@ -507,7 +588,7 @@
 			"https://ih1.redbubble.net/image.1056362847.1454/cposter,small,square_product,1000x1000.2.jpg"
 		],
 		"price": "RM13.79",
-		"stock": 101,
+		"available": true,
 		"purchaseLimit": 10,
 		"description": "**Features**\n- Blank walls suck, so bring some life to your dorm, bedroom, office, studio, wherever\n- Printed on 185gsm semi gloss poster paper\n- Custom cut - refer to size chart for finished measurements\n- Includes a 3/16 inch (5mm) white border to assist in framing\n\n**Finish**\nSemi gloss\n\n**Size Guide**\n**Inch**\nSize    Small\nWidth   15.5\nHeight  23.2\n**CM**\nSize    Small\nWidth   39.5\nHeight  59\n\nEvangelion: 3.0 + 1.0 2020.\nGod is in his heaven. All is right with the world. Japanese Release Poster Arts.\n\nReturns are free and easy.\nBecause you need to be happy. We all do",
 		"reviews": [
@@ -602,19 +683,20 @@
 		"categories": { "series": "JoJo", "type": "Posters" },
 		"images": [ "https://static.displate.com/857x1200/displate/2021-02-23/8908e0d208805efd060ac18eb8e156c0_bc59981f540fe65ecbf6d00ee4780a02.jpg" ],
 		"price": "RM44.00",
-		"stock": 99,
+		"available": true,
 		"purchaseLimit": 5,
-		"description": "- Quality checked\n- Handmade in the EU\n- Bend edges\n- Hologram of authenticity"
+		"description": "- Quality checked\n- Handmade in the EU\n- Bend edges\n- Hologram of authenticity",
+		"reviews": [ { "rating": 5 }, { "rating": 5 }, { "rating": 4 } ]
 	},
 	"23": {
 		"name": "Tako Ina Sticker",
-		"categories": { "series": "Hololive", "type": "Sticker" },
+		"categories": { "series": "Hololive", "type": "Stickers" },
 		"images": [
 			"https://ih1.redbubble.net/image.1691633044.6298/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
 			"https://ih1.redbubble.net/image.1691633044.6298/sss,small,product_square,1000x1000.jpg"
 		],
 		"price": "RM10.00",
-		"stock": 3,
+		"available": true,
 		"purchaseLimit": 5,
 		"description": "**Features**\n- Decorate and personalize laptops, windows, and more\n- Removable, kiss-cut vinyl stickers\n- Super durable and water-resistant\n- 1/8 inch (3.2mm) white border around each design\n- Matte finish\n- Sticker types may be printed and shipped from different locations\n\n**Size Guide**\n**Inch**\nSize    Small\nWidth   3\nHeight  3.1\n**CM**\nSize    Small\nWidth   7.6\nHeight  8\n\nReturns are free and easy.\nBecause you need to be happy. We all do.",
 		"reviews": [
@@ -671,9 +753,9 @@
 	},
 	"24": {
 		"name": "Japanese Ramen Noodles Bowl Sticker",
-		"categories": { "type": "Sticker" },
+		"categories": { "type": "Stickers" },
 		"price": "RM16.50",
-		"stock": 44,
+		"available": true,
 		"purchaseLimit": 4,
 		"images": [
 			"https://ih1.redbubble.net/image.513535564.4970/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u4.jpg",
@@ -723,6 +805,303 @@
 				"title": "Love the stickers for my water bottle",
 				"comment": "Love the stickkers for my water bottle"
 			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 4 }
+		]
+	},
+	"25": {
+		"name": "Naruto Shipppuden Kakashi Sling Bag",
+		"categories": { "series": "Naruto", "type": "Accessories" },
+		"images": [ "https://hottopic.scene7.com/is/image/HotTopic/14021714_hi?$productMainDesktop$", "https://hottopic.scene7.com/is/image/HotTopic/14021714_av1?$productMainMobilePortrait$", "https://hottopic.scene7.com/is/image/HotTopic/14021714_av2?$productMainMobilePortrait$", "https://hottopic.scene7.com/is/image/HotTopic/14021714_av3?$productMainMobilePortrait$" ],
+		"available": true,
+		"price": "RM39.90",
+		"purchaseLimit": 2,
+		"description": "Ready to be the leader of your pack? This sling bag from Naruto Shippuden features a design inspired by Kakashi's suit. The front has a red patch of the Uzumaki clan symbol and a metal decal of his forehead protector. There are two zipper pockets on the front and side and one with hook and loop fastening tape closure. The main compartment has a lined tech sleeve, mesh zipper pocket and elastic straps to organize items such as pens or even gaming equipment. There is a hidden pocket on the back. Adjustable straps.\n\n- 7\" x 2\" x 11\"\n- Polyester\n- Imported",
+		"reviews": [
+			{
+				"rating": 5,
+				"date": "Aug 12 2021",
+				"title": "THE. BEST. BAG.",
+				"comment": "Listen up, this backpack is everything I've ever wanted and MORE. It's the perfect size and perfect fit to substitute as a \"purse\". There are so many pockets, it's unbelievable. The strap is extra long to fit body sizes big and small, and the strap isn't fixed to one shoulder, you can adjust it to sling over either side! This bag is my new ride or die."
+			},
+			{
+				"name": "Hazzy",
+				"rating": 5,
+				"date": "Aug 11 2021",
+				"title": "I love this bag!",
+				"comment": "I bought this bag awhile ago and I use it daily! It is the perfect size and it holds everything so nicely! If you were thinking about buying this bag, DO IT! You will not regret it!"
+			},
+			{
+				"name": "Konohagakure Scarecrow",
+				"rating": 5,
+				"date": "Aug 08 2021",
+				"title": "Perfectly functional!",
+				"comment": "Bought it yesterday because it was Kakashi-themed and a convenient size. Love it because of the high quality construction, all the pockets, water bottle holder, and the comfortable fit of the shoulder strap. It's already replaced my work bag and I'm considering another for cycling and day hikes! It even has space for Icha Icha Paradise!"
+			},
+			{
+				"name": "mashjo",
+				"rating": 5,
+				"date": "July 30 2021",
+				"title": "Awesome",
+				"comment": "Bought this for my son as he is now into this and he loves it. Excellent quality and it has so many pockets you can keep everything. Large enough for a water bottle as well."
+			},
+			{
+				"name": "Melamor12",
+				"rating": 5,
+				"date": "July 26 2021",
+				"title": "Worth the wait!",
+				"comment": "I waited 6 months to get this bag. It was worth the wait! I really love the style and abundant amount of pockets it has. It can fit my tablet or my Nintendo Switch easily. It could probably also fit most journals and pens. It is basically a mini jonin's vest backpack that makes you feel like a ninja with convenience. The bag is also super light wait."
+			},
+			{
+				"name": "Sharriao",
+				"rating": 5,
+				"date": "July 22 2021",
+				"title": "So many pockets!",
+				"comment": "This bag is the perfect size to carry around essentials and has a handy little pocket for everything. Plus it looks super cool and I get a lot of complements."
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 4 }
+		]
+	},
+	"26": {
+		"name": "Bleach Vol. 1 (Japanese)",
+		"categories": { "series": "Bleach", "type": "Books" },
+		"images": [
+			"https://resize.cdn.otakumode.com/ex/700.700/shop/product/e586c5890c9b4db2b55be1e85c91231e.jpg.webp",
+			"https://resize.cdn.otakumode.com/ex/700.700/shop/product/a8ef5f473da043d0a398ffa14ccb3ed0.jpg.webp"
+		],
+		"available": false,
+		"purchaseLimit": 10,
+		"price": "RM25.00",
+		"description": "**Product Name**: Bleach Vol. 1 (Japanese)\n**Author/Illustrator**: Tite Kubo\n**Publisher**: Shueisha\n**Publication Date**: Jan. 1, 2002\n**Book Size**: 18 cm | 7.1\"\n**Number of Pages**: 189\n**Language**: Japanese\n\nIchigo Kurosaki is just an ordinary high schooler...with the ability to see ghosts. But even that doesn’t change his life nearly as much as meeting Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society who fights the Hollow, even spirits that prey on humans who have psychic energy. Caught in a fight with a Hollow, Rukia lends Ichigo some of her powers so he can save his family, only for him to absorb them completely and become a full-fledged Soul Reaper himself. Now, it’s his job along with Rukia to help protect the innocent of the world from the Hollow and help their spirits find peace in this action-packed manga by Tite Kubo.\n\nVolume 1 of the Japanese manga, titled Strawberry and the Soul Reapers: The Death and the Strawberries, kicks off the story with chapters 1-7 and spans 189 pages.",
+		"reviews": [
+			{
+				"name": "Kyung Mo Yang",
+				"rating": 5,
+				"date": "Feb 02 2019",
+				"title": "Good!!",
+				"comment": "Received even earlier than I thought, even if it was all the way to France!!\nGood status and nice little present 😉😉![customer's picture](https://resize.cdn.otakumode.com/resize/240/up/reviews/84e3aa13fe964d57b010b484b11030fa.jpg)"
+			}
+		]
+	},
+	"27": {
+		"name": "No Game No Life Sticker Pack of 50 Stickers - Waterproof Durable Stickers for Water, Bottles, Computers, and Laptops",
+		"categories": { "series": "No Game No Life", "type": "Stickers" },
+		"images": [
+			"https://m.media-amazon.com/images/I/81+EVTWD+HL._AC_SX679_.jpg",
+			"https://m.media-amazon.com/images/I/71dqb5FZVwL._AC_SX679_.jpg",
+			"https://m.media-amazon.com/images/I/71Z6uyc7ZbL._AC_SX679_.jpg",
+			"https://m.media-amazon.com/images/I/71E9sL8ocCL._AC_SX679_.jpg",
+			"https://m.media-amazon.com/images/I/81G6xtfpHfL._AC_SX679_.jpg"
+		],
+		"available": true,
+		"purchaseLimit": 30,
+		"price": "RM24.00",
+		"description": "**About this item**\n- PERFECT Gift: Totally worth 50 pcs various and great quality stickers.\n- STICKERS - Size 5-8cm.\n- Perfect to embellish Laptops, Trackpads, Keyboards, Backpacks, Skateboards, Luggage, Water Bottles, Scrapbooks, Mirrors, Notebooks, Journals, Cars, Bumpers, Bikes, Bedroom, Travel Case, Motorcycle, Snowboard, PS4, XBOX ONE. Feel free to customize your belongings, make your personality shine!\n- HOW TO USE: Get your stickers, clean the surface, sticker on, then use your imagination to create works now!\n- SUITABLE SIZE: Our vsco aesthetic stickers has a suitable size that meets your needs, can stick on different surface and remove without any effort.\n- SURPRISE GIFT – Our assortment of the graffiti decals is your right choice when choosing a gift for your friends, kids. These creative patches will be the best present to make a cool room or for DIY decoration.\n\nThere are 50 different water bottle stickers in each pack. This is a great gift designed for women, teen girls, boys, kids. Picking a gift can be challenging, but with this laptop stickers set you can't go wrong! Our waterproof stickers has a suitable size that meets your needs, can stick on different surface and remove without any effort.\n\nAll the computer stickers made of high quality vinyl with sun protection and waterproof, can prevent splashing in daily life and bring you more waterproof performance.\n\nThese vinyl stickers are ideal for your laptops, computers, keyboards, water bottles, hydroflasks, nalgenes, scrapbooks, mirrors, macbooks, notebooks, journals, luggage, skateboards, snowboards, bicycles, cars, guitars, and more.\n\n\n**Tips**:\nBefore using it, clean the surface where you want to use the stickers, then stick them directly on the surface. You must stick it on a smooth surface.",
+		"reviews": [
+			{
+				"name": "Precious Johnson",
+				"date": "Sep 09 2021",
+				"rating": 5,
+				"title": "Cute and good quality",
+				"comment": "Got them for my laptop and I love them!\n![customer's picture](https://m.media-amazon.com/images/I/C1I9Ok5euyS._SL1600_.jpg)"
+			},
+			{
+				"name": "Friend",
+				"date": "Jul 27 2021",
+				"rating": 4,
+				"title": "Good but one little problem.",
+				"comment": "Love the stickers and the feel of them are so satisfying. They look amazing, cute and just awesome to the No Game No Life Anime.\n\nOnly complaint, the one sticker with a beloved character the follows the main characters as their servant is named wrong. Jabril is meant to be Jibril."
+			},
+			{
+				"name": "Jen1213",
+				"date": "Jul 24 2021",
+				"rating": 4,
+				"title": "cute",
+				"comment": "they’re nice and cute. look perfect on my laptop. only concern is that there is too many of jibril (i hate her)"
+			},
+			{
+				"name": "Brenden",
+				"date": "Jun 23 2021",
+				"rating": 5,
+				"title": "Perfect",
+				"comment": "Came with so many different stickers, and arrived earlier than expected."
+			},
+			{
+				"name": "Nhi",
+				"date": "Jun 21 2021",
+				"rating": 5,
+				"title": "Product was a very good way to make someone happy",
+				"comment": "The product looks great and looks just like the pictures"
+			},
+			{
+				"name": "Karen Perez",
+				"date": "Apr 19 2021",
+				"rating": 5,
+				"title": "The promised neverland stickers",
+				"comment": "I bought these for my daughter and she loves it. It came right on time. It sticks super well and a perfect size."
+			}, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 5 }, { "rating": 3 }, { "rating": 3 }, { "rating": 3 }, { "rating": 2 }, { "rating": 1 }
+		]
+	},
+	"28": {
+		"name": "MXDZA Japanese Anime NO GAME NO LIFE Shiro Jibril Fabric Painting",
+		"categories": { "series": "No Game No Life", "type": "Posters" },
+		"images": [
+			"https://m.media-amazon.com/images/I/71Mms3ZbeJL._AC_SY741_.jpg",
+			"https://m.media-amazon.com/images/I/61NB-HUlBvL._AC_SX679_.jpg"
+		],
+		"price": "RM62.20",
+		"available": true,
+		"purchaseLimit": 30,
+		"description": "- **Size**: Width x Length : (40x60cm) (16\"x23.62\")\n- Easy to hang(comes with hanging hooks)and makes a great gift too;\n- Decorate your walls with this brand new study wall scroll\n- High Quality,Durable fabric;vibrant colors",
+		"reviews": [
+			{
+				"name": "Alyssa F.",
+				"rating": 5,
+				"date": "Jun 18 2021",
+				"title": "Amazing",
+				"comment": "It's an amazing wall scroll. It did take a long while to arrive but that's to be expected but it was worth the wait"
+			},
+			{
+				"name": "jmend12",
+				"rating": 5,
+				"date": "Feb 20 2021",
+				"title": "No Game No Life",
+				"comment": "Pros- Amazing quality, very beautiful colors\n\nCons- long shipping time but worth it\n![customer's picture](https://images-na.ssl-images-amazon.com/images/I/71d9Mf0ngIL._SL1600_.jpg)"
+			},
+			{
+				"name": "Danni Meow",
+				"rating": 5,
+				"date": "Jan 26 2021",
+				"title": "Flawless picture quality",
+				"comment": "This is the best quality wall scroll I have and I have A LOT. The image is extremely sharp. It came packaged in quality bubble wrap to insure the product wasn’t damaged. 10/10 absolutely love it."
+			},
+			{
+				"name": "Jared Wolf",
+				"rating": 5,
+				"date": "Jul 30 2020",
+				"title": "Vibrant and Decent Size",
+				"comment": "After the photo, I made took some string and I tied it around both sides of the black mounting piece and drilled only one hole. It's easy adjusted with the string.\n\nI'm satisfied with this piece, it's so vibrant and pretty looking, definitely eye candy. The material is known for fraying with age, so as long as you are careful, it won't tear or rip. Stronger than paper by far.\n\nIt's not a normal paper poster, I kind of have a pet peeve with the glimmer and shine paper has when direct sunlight hits with, with this. You don't have to worry about that.\n![customer's photo](https://images-na.ssl-images-amazon.com/images/I/A1yapkMUJ9L._SL1600_.jpg)"
+			},
+			{
+				"name": "Cloudycorn",
+				"rating": 5,
+				"date": "Oct 19 2019",
+				"title": "ლ(o◡oლ)",
+				"comment": "Came right On time Perfect Quality And everything! ╰( ^o^)╮\n![customer's picture](https://images-na.ssl-images-amazon.com/images/I/81uYM+sG4JL.jpg)"
+			}, { "rating": 4 }
+		]
+	},
+	"29": {
+		"name": "Funko POP Anime: Bleach Ichigo Action Figure",
+		"categories": { "series": "Bleach", "type": "Figurines" },
+		"images": [
+			"https://m.media-amazon.com/images/I/41hkr1t59wL._AC_.jpg",
+			"https://m.media-amazon.com/images/I/61goxneL2PL._AC_SY741_.jpg",
+			"https://m.media-amazon.com/images/I/518emjsOgUL._AC_.jpg",
+			"https://m.media-amazon.com/images/I/61xar4-AHWL._AC_SX569_.jpg"
+		],
+		"price": "RM 74.94",
+		"purchaseLimit": 30,
+		"available": true,
+		"description": "- From the hit anime Bleach, Ichigo, as a stylized POP vinyl from Funko!\n- Stylized collectable stands 3 3/4 inches tall, perfect for any Bleach fan!\n- Collect and display all Bleach and anime Pop! Vinyls!\n\nFrom the hit anime Bleach, Ichigo, as a stylized POP vinyl from Funko! Figure stands 3 3/4 inches and comes in a window display box. Check out the other Bleach and anime figures from Funko! Collect them all!.\n\n\n**⚠️WARNING:\nCHOKING HAZARD -- Small parts. Not for children under 3 yrs.**",
+		"reviews": [
+			{
+				"name": "Anna",
+				"rating": 5,
+				"date": "Mar 31 2021",
+				"title": "collectiables",
+				"comment": "Son loves when he gets these as gifts."
+			},
+			{
+				"name": "Tegan",
+				"rating": 4,
+				"date": "Mar 28 2021",
+				"title": "Comes with a protective case",
+				"comment": "Very good product for the price, it comes with a protective case that you can put the funko pop box in. The figure itself seems a bit older in terms of quality and build but still seems fine, the packaging came a little bent up"
+			},
+			{
+				"name": "jrivera13154",
+				"rating": 5,
+				"date": "Mar 01 2021",
+				"title": "Great Pop!",
+				"comment": "Love this Pop! They did the look very much like Ichigo"
+			},
+			{
+				"name": "Johanna leon",
+				"rating": 5,
+				"date": "Jan 27 2021",
+				"title": "Agradable y perfecto",
+				"comment": "Hermosisimo\nMi hijo mega feliz"
+			},
+			{
+				"name": "Memalmo",
+				"rating": 5,
+				"date": "Jan 02 2021",
+				"title": "Nice collectible",
+				"comment": "Box arrived in pristine condition"
+			},
+			{
+				"name": "Cody Jordan",
+				"rating": 3,
+				"title": "Great Pop, poor box.",
+				"comment": "So, first off, the Pop itself is in pretty good condition. No issues or damage to the Pop. The box on the other hand was damaged. Large creases around the box and then there's the big upc sticker placed over the original upc on the box. Pops are collectibles and the big value comes from the condition of the box. I'll definitely bet looking for a replacement.![customer's picture](https://images-na.ssl-images-amazon.com/images/I/81IGyKfLP2L._SL1600_.jpg)![customer's picture](https://images-na.ssl-images-amazon.com/images/I/81XJaf-2c-L._SL1600_.jpg)"
+			}
+		]
+	},
+	"30": {
+		"name": "Naruto Shippuden Nyanto! The Big Nyaruto Series Group T-Shirt",
+		"categories": { "series": "Naruto", "type": "Shirts" },
+		"images": [ "https://hottopic.scene7.com/is/image/HotTopic/15237810_hi?$productMainDesktop$" ],
+		"price": "RM26.90",
+		"purchaseLimit": 5,
+		"available": true,
+		"description": "Meow meow! From Nyanto! The Big Nyaruto Series, this white tee features a group of kitties dressed like your favorite Naruto Shippuden characters like Naruto and Sasuke.\n- 100% cotton\n- Wash cold; dry low\n- Imported\n- Listed in men's sizes",
+		"reviews": [
+			{
+				"name": "RB from PA",
+				"rating": 5,
+				"date": "Sep 13 2021",
+				"title": "Daughter loves it",
+				"comment": "Nice quality t-shirt. My daughter likes this Nyaruto series. Very cute idea."
+			},
+			{
+				"name": "Omgs",
+				"rating": 5,
+				"date": "Sep 10 2021",
+				"title": "Recommend",
+				"comment": "Soft shirt and fits nice"
+			},
+			{
+				"name": "Motherofcats18",
+				"rating": 5,
+				"date": "Aug 31 2021",
+				"title": "Purrfect",
+				"comment": "Love this shirt! It does run large."
+			},
+			{
+				"name": "AlejandraC",
+				"rating": 5,
+				"date": "Aug 18 2021",
+				"title": "Get it !",
+				"comment": "True to size and super cute vibrant colors."
+			},
+			{
+				"name": "champagnemicky",
+				"rating": 5,
+				"date": "June 15 2021",
+				"title": "Naruto Shipudden Nyanto group shirt my fav!",
+				"comment": "I love this shirt so much! it’s one of my fav Naruto shirts in my collection and it’s really soft!"
+			},
+			{
+				"rating": 5,
+				"date": "June 09 2021",
+				"title": "Nothing. The product is good",
+				"comment": "Its a good product"
+			},
+			{
+				"name": "DeannaHwd",
+				"rating": 5,
+				"date": "June 03 2021",
+				"title": "Super Cute",
+				"comment": "Fits true to size but went with a medium for a loose fit"
+			}
 		]
 	}
 }
